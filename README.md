@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Anirban Chakraborty and I'm a front-End web developer, from India.</h2>
+<h2 align="left">Hi 👋! My name is Anirban Chakraborty and I'm a Frontend web developer, from India.</h2>
 
 ###
 
