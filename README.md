@@ -26,7 +26,7 @@
 
 ###
 
-<img align="right" height="150" src="https://cdn.dribbble.com/users/1876781/screenshots/6169542/media/d368a5f71afcbeb7d6e55cbdc8401ade.gif"  />
+<img align="right" height="200" src="https://cdn.dribbble.com/users/1876781/screenshots/6169542/media/d368a5f71afcbeb7d6e55cbdc8401ade.gif"  />
 
 ###
 
